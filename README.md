@@ -7,5 +7,6 @@ Problems Solved:
 - **LC: 424** Longest Repeating Character Replacement.
 - **LC: 434** Number Of Segments In A String.
 - **LC: 459** Repeated Substring Pattern.
+- **LC: 591** Tag Validator.
 - **LC: 658** Find K-Closest Elements.
 - **LC: 854** K-Similar Strings.
