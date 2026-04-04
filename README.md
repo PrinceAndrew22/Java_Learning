@@ -7,3 +7,4 @@ Problems Solved:
 - **LC: 658** Find K-Closest Elements.
 - **LC: 854** K-Similar Strings.
 - **LC: 23** Merge K-Sorted Lists.
+- **LC: 459** Repeated Substring Pattern.
