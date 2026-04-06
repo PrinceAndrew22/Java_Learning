@@ -8,7 +8,7 @@ Problems Solved:
 - **LC: 434** Number Of Segments In A String.
 - **LC: 459** Repeated Substring Pattern.
 - **LC: 591** Tag Validator.
-- **LC: 591** Tag Validator.
+- **LC: 632** Smallest Range Covering Elements From K-Lists.
 - **LC: 658** Find K-Closest Elements.
 - **LC: 844** Back space String Compare.
 - **LC: 854** K-Similar Strings.
