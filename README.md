@@ -4,6 +4,7 @@ Problems Solved:
 - **LC: 23** Merge K-Sorted Lists.
 - **LC: 38** Count And Say.
 - **LC: 76** Minimum Window Substring.
+- **LC: 300** Similar k-strings.
 - **LC: 424** Longest Repeating Character Replacement.
 - **LC: 434** Number Of Segments In A String.
 - **LC: 459** Repeated Substring Pattern.
@@ -12,3 +13,4 @@ Problems Solved:
 - **LC: 658** Find K-Closest Elements.
 - **LC: 844** Back space String Compare.
 - **LC: 854** K-Similar Strings.
+
